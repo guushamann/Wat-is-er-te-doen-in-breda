@@ -1,0 +1,68 @@
+---
+import { getCollection } from "astro:content";
+import Card from "./Card.astro";
+
+const allResults = await getCollection("results");
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+
+const results = allResults
+  .filter((result) => {
+    const eventDate = new Date(result.data.startDate);
+    eventDate.setHours(0, 0, 0, 0);
+
+    // Only include events that start today or in the future
+    const isFutureEvent = eventDate >= today;
+
+    // Check if event duration is less than or equal to 12 hours
+    const startTime = new Date(result.data.startDate).getTime();
+    const endTime = new Date(result.data.endDate).getTime();
+    const duration = (endTime - startTime) / (1000 * 60 * 60 * 2); // Convert to hours
+    const isShortEvent = duration <= 12;
+
+    return isFutureEvent && isShortEvent;
+  })
+  .sort((a, b) => {
+    return (
+      new Date(a.data.startDate).getTime() -
+      new Date(b.data.startDate).getTime()
+    );
+  });
+---
+
+<div>
+  {
+    results.map((result) => (
+      <a href={result.data.urlToEvent}>
+        <div class="mt-2 mb-8 uppercase">
+          <h2 class="text-2xl lg:text-4xl font-funnel underline">
+            {result.data.title}
+          </h2>
+
+          <div class="flex flex-row gap-2  justify-between">
+            <div class="flex flex-row gap-2 justify-between mb-2">
+              <div class="text-lg lg:text-2xl font-funnel">
+                {new Date(result.data.startDate).toLocaleDateString("nl-NL", {
+                  weekday: "long",
+                })}
+              </div>
+              <div class="text-lg lg:text-2xl font-funnel">
+                {new Date(result.data.startDate).toLocaleDateString("nl-NL", {
+                  day: "2-digit",
+                  month: "2-digit",
+                  year: "numeric",
+                })}
+              </div>
+            </div>
+            <div class="flex flex-row gap-2 justify-between">
+              <div class="text-lg lg:text-2xl font-funnel ">
+                {result.data.name}
+              </div>
+            </div>
+          </div>
+          <div class="lg:text-2xl font-funnel">{result.data.description}</div>
+        </div>
+      </a>
+    ))
+  }
+</div>

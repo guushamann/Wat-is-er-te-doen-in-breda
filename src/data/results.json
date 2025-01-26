@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Rosemary\u2019s Sons",
+    "description": "Met Amerikaans geori\u00ebnteerde poprock komt Rosemary's Sons met nieuw werk.",
+    "startDate": "2025-01-26T00:00:00Z",
+    "endDate": "2025-01-26T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/rosemarys-sons-3/",
+    "id": "0e8799cd-16f3-4612-8ef3-b6265c174678",
+    "name": "mezz"
+  },
+  {
+    "title": "The Legendary Pink Dots",
+    "description": "Een dromerige mix van psychedelica, spacerock, avant-garde en neo-gothic.",
+    "startDate": "2025-01-29T00:00:00Z",
+    "endDate": "2025-01-29T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/the-legendary-pink-dots/",
+    "id": "d01b0948-ca05-4162-8f22-e66f973e99b0",
+    "name": "mezz"
+  },
+  {
+    "title": "ONDECKED Open Deck Night",
+    "description": "Open decks night to show your DJ skills!",
+    "startDate": "2025-01-30T00:00:00Z",
+    "endDate": "2025-01-30T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/ondecked-4/",
+    "id": "41417690-aa0f-4b7c-8231-05a3233ce1ab",
+    "name": "mezz"
+  },
+  {
+    "title": "VroegZat",
+    "description": "VroegZat brengt het nachtleven terug naar de avond!",
+    "startDate": "2025-01-31T00:00:00Z",
+    "endDate": "2025-01-31T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/vroegzat-3/",
+    "id": "e794be66-9087-43c5-a78c-377716ade282",
+    "name": "mezz"
+  },
+  {
+    "title": "COLLISIONZ: Remnants of Tomorrow",
+    "description": "An exhilarating night of Raw and Uptempo",
+    "startDate": "2025-01-31T00:00:00Z",
+    "endDate": "2025-01-31T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/collisionz-remnants-of-tomorrow/",
+    "id": "565a2eaa-9f45-4ab2-852e-eb94e35ac9f4",
+    "name": "mezz"
+  },
+  {
+    "title": "TRICKPONY",
+    "description": "A paradise for music and art lovers alike.",
+    "startDate": "2025-02-01T00:00:00Z",
+    "endDate": "2025-02-01T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/trickpony/",
+    "id": "67a3a272-f6ef-4c56-b98f-038e26c0f71a",
+    "name": "mezz"
+  },
+  {
+    "title": "TRICKPONY by night",
+    "description": "Let the music take over as the dancefloor comes alive!",
+    "startDate": "2025-02-01T00:00:00Z",
+    "endDate": "2025-02-01T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/trickpony-by-night-2/",
+    "id": "24647a2b-889c-43b1-9694-397d7800e2a7",
+    "name": "mezz"
+  },
+  {
+    "title": "The Yearlings",
+    "description": "De alt country band The Yearlings brengt de avond met hun nieuwe indie album.",
+    "startDate": "2025-02-02T00:00:00Z",
+    "endDate": "2025-02-02T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/the-yearlings/",
+    "id": "9828bccd-16b5-46fa-9dac-6c9817f32c61",
+    "name": "mezz"
+  },
+  {
+    "title": "Kickstart",
+    "description": "D\u00e9 ontmoetingsplek voor beginnende muzikanten.",
+    "startDate": "2025-02-05T00:00:00Z",
+    "endDate": "2025-02-05T23:59:59Z",
+    "eventType": "Workshop",
+    "urlToEvent": "https://www.mezz.nl/programma/kickstart-32/",
+    "id": "4e004c70-1951-4c58-b684-b5c07d524c30",
+    "name": "mezz"
+  },
+  {
+    "title": "Breda Beats: Showcase Talent Academy",
+    "description": "Immerse yourself in Breda's vibrant electronic music culture.",
+    "startDate": "2025-02-06T00:00:00Z",
+    "endDate": "2025-02-06T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.mezz.nl/programma/bredabeats/",
+    "id": "4e5552d3-1409-43d2-aebc-45d212aa9352",
+    "name": "mezz"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by Mallissa Raghoenandan",
+    "description": "A welcoming jam session for musicians of all levels.",
+    "startDate": "2025-01-26T18:00:00Z",
+    "endDate": "2025-01-26T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/jam-mallissa/>",
+    "id": "4668c9b4-ded0-4956-ba61-2f2c5787e0df",
+    "name": "phoenix"
+  },
+  {
+    "title": "Board Game Night",
+    "description": "Join the cosiest board games community in Breda.",
+    "startDate": "2025-01-30T19:00:00Z",
+    "endDate": "2025-01-30T23:00:00Z",
+    "eventType": "Game Night",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/board-game-night-2/>",
+    "id": "92c0e70d-eca2-4b55-9d6e-d705db6c1f1e",
+    "name": "phoenix"
+  },
+  {
+    "title": "KARAOKE CHAOS!\u00a1",
+    "description": "Embrace the madness of Karaoke Chaos and step into a world of musical glory.",
+    "startDate": "2025-01-31T20:00:00Z",
+    "endDate": "2025-02-01T02:00:00Z",
+    "eventType": "Karaoke",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/karaoke-chaos-3/>",
+    "id": "9ad1a439-c755-4588-ad16-c7caeb9fd45a",
+    "name": "phoenix"
+  },
+  {
+    "title": "Full Clip: A Tribute to Hip Hop",
+    "description": "A journey through the rich history of hip hop.",
+    "startDate": "2025-02-01T20:00:00Z",
+    "endDate": "2025-02-02T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/fullclip/>",
+    "id": "c73ecd3d-7a26-40f2-a3a3-70750fa495f9",
+    "name": "phoenix"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by Naomi Adriaansz",
+    "description": "A musical journey with musicians of diverse genres and ages.",
+    "startDate": "2025-02-02T18:00:00Z",
+    "endDate": "2025-02-02T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/jam-naomi/>",
+    "id": "6507875b-25d0-4506-b84e-7e821517d9af",
+    "name": "phoenix"
+  },
+  {
+    "title": "Foxhole | Hard Techno & Unieke vibes",
+    "description": "Hard techno at unique locations, focusing on pure energy and a unique vibe.",
+    "startDate": "2025-02-07T20:00:00Z",
+    "endDate": "2025-02-08T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/foxhole/>",
+    "id": "5707dbbe-d627-4aa4-91db-103c388f9500",
+    "name": "phoenix"
+  },
+  {
+    "title": "Upstrokes United! SkaPunk",
+    "description": "Live ska punk night featuring Popes of Chillitown and more.",
+    "startDate": "2025-02-15T20:00:00Z",
+    "endDate": "2025-02-16T01:00:00Z",
+    "eventType": "Concert",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/upstrokes/>",
+    "id": "c0d70b32-4441-4210-8abf-41817cd2f276",
+    "name": "phoenix"
+  },
+  {
+    "title": "Masterclass Musicality",
+    "description": "Learn the qualities that make music unforgettable with experts.",
+    "startDate": "2025-02-16T15:00:00Z",
+    "endDate": "2025-02-16T17:30:00Z",
+    "eventType": "Workshop",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/masterclass-musicality/>",
+    "id": "1d7d814e-279f-40c1-a3e7-d310c55a635c",
+    "name": "phoenix"
+  },
+  {
+    "title": "Metallica + M\u00f6tley Cr\u00fce | Tributes by The Dutch Horseman & M\u00f6tley Kr\u00ebw",
+    "description": "An epic rock night with tribute bands for Metallica and M\u00f6tley Cr\u00fce.",
+    "startDate": "2025-02-22T20:00:00Z",
+    "endDate": "2025-02-23T01:00:00Z",
+    "eventType": "Concert",
+    "urlToEvent": "https://poppodiumphoenix.nl/events/lijst/pagina/1/<https:/poppodiumphoenix.nl/event/metallica-motley-crue-tribute/>",
+    "id": "f5accc00-b948-47e4-9a6c-65dac9c686a0",
+    "name": "phoenix"
+  },
+  {
+    "title": "Board Game Night",
+    "description": "Join the best board games community in Breda for an incredible night of fun.",
+    "startDate": "2025-02-27T19:00:00Z",
+    "endDate": "2025-02-27T23:00:00Z",
+    "eventType": "Games",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/board-game-night-5/",
+    "id": "ba04d63e-f192-46eb-96dd-4fd8c3672e40",
+    "name": "phoenix"
+  },
+  {
+    "title": "CONFETTI IN JE KIELEGAT! (Punk)",
+    "description": "A carnival party with the best punk music from The Peterlees, Team Wasted, and more.",
+    "startDate": "2025-03-01T20:00:00Z",
+    "endDate": "2025-03-02T01:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/kielegat/",
+    "id": "bc362d0a-4ab0-4fa9-a62f-98eed06625b8",
+    "name": "phoenix"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by T.B.A.",
+    "description": "Join the ultimate jam sessions of Breda with a new session leader each week.",
+    "startDate": "2025-03-02T18:00:00Z",
+    "endDate": "2025-03-02T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/sunday-jam-session-hosted-by-t-b-a-2/",
+    "id": "78b995e7-3f84-4dc0-b885-b6bc5c1b5928",
+    "name": "phoenix"
+  },
+  {
+    "title": "Board Game Night",
+    "description": "Join the best board games community in Breda for an incredible night of fun.",
+    "startDate": "2025-03-06T19:00:00Z",
+    "endDate": "2025-03-06T23:00:00Z",
+    "eventType": "Games",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/board-game-night-3/",
+    "id": "e76fbccb-03a3-473c-b7ab-b273b4cafea9",
+    "name": "phoenix"
+  },
+  {
+    "title": "Gijsjaradijsja & Amazing Discofreaks",
+    "description": "Gijsjaradijsja with Amazing Discofreaks will bring a bizarrely good combo to Poppodium Phoenix.",
+    "startDate": "2025-03-08T20:00:00Z",
+    "endDate": "2025-03-09T01:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/gijsjaradijsja-amazing-discofreaks/",
+    "id": "ad4716e2-03fb-4bc1-a08c-e0baf162e2a8",
+    "name": "phoenix"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by T.B.A.",
+    "description": "Join the ultimate jam sessions of Breda with a new session leader each week.",
+    "startDate": "2025-03-09T18:00:00Z",
+    "endDate": "2025-03-09T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/sunday-jam-session-hosted-by-t-b-a-13/",
+    "id": "8a0507f5-37d4-44ad-8e5d-e192f7e22588",
+    "name": "phoenix"
+  },
+  {
+    "title": "Board Game Night",
+    "description": "Join the best board games community in Breda for an incredible night of fun.",
+    "startDate": "2025-03-13T19:00:00Z",
+    "endDate": "2025-03-13T23:00:00Z",
+    "eventType": "Games",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/board-game-night/",
+    "id": "defa3d9a-a3a7-4e6c-86f2-9d4c58d7358d",
+    "name": "phoenix"
+  },
+  {
+    "title": "The Phoenix Band | Classics & Anthems!",
+    "description": "The Phoenix Band returns with an evening full of classic and anthems.",
+    "startDate": "2025-03-14T20:30:00Z",
+    "endDate": "2025-03-15T01:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/the-phoenix-band-classics-anthems/",
+    "id": "021e3a85-319b-4de1-ba5a-39910dd00b2b",
+    "name": "phoenix"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by T.B.A.",
+    "description": "Join the ultimate jam sessions of Breda with a new session leader each week.",
+    "startDate": "2025-03-16T18:00:00Z",
+    "endDate": "2025-03-16T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/sunday-jam-session-hosted-by-t-b-a/",
+    "id": "970dd6fc-d6ae-43ae-b236-9c275aaed1d5",
+    "name": "phoenix"
+  },
+  {
+    "title": "Board Game Night",
+    "description": "Join the best board games community in Breda for an incredible night of fun.",
+    "startDate": "2025-03-20T19:00:00Z",
+    "endDate": "2025-03-20T23:00:00Z",
+    "eventType": "Games",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/board-game-night-11/",
+    "id": "7b982ab1-4385-40b9-bf5c-cda16f78e0fc",
+    "name": "phoenix"
+  },
+  {
+    "title": "El Perro | Phoenix x MEZZ",
+    "description": "Experience a fresh approach to psychedelic rock with El Perro.",
+    "startDate": "2025-03-21T20:00:00Z",
+    "endDate": "2025-03-22T01:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/el-perro/",
+    "id": "6b1738a8-5dbe-4db3-bdfe-c573c3561196",
+    "name": "phoenix"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by T.B.A.",
+    "description": "Join the ultimate jam sessions of Breda with a new session leader each week.",
+    "startDate": "2025-03-23T18:00:00Z",
+    "endDate": "2025-03-23T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/sunday-jam-session-hosted-by-t-b-a-5/",
+    "id": "ad3df16f-c75c-4510-9373-4eb25253ece5",
+    "name": "phoenix"
+  },
+  {
+    "title": "Board Game Night",
+    "description": "Join the best board games community in Breda for an incredible night of fun.",
+    "startDate": "2025-03-27T19:00:00Z",
+    "endDate": "2025-03-27T23:00:00Z",
+    "eventType": "Games",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/board-game-night-9/",
+    "id": "2f9ba89f-0d01-4af5-9c78-bb0953bea72f",
+    "name": "phoenix"
+  },
+  {
+    "title": "KARAOKE CHAOS!",
+    "description": "Step out of the ordinary and embrace the madness of Karaoke Chaos.",
+    "startDate": "2025-03-28T20:00:00Z",
+    "endDate": "2025-03-29T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/karaoke-chaos-7/",
+    "id": "e2eb7d44-22e1-4bcb-a0fe-ffb054fe039e",
+    "name": "phoenix"
+  },
+  {
+    "title": "Sunday Jam Session | Hosted by T.B.A.",
+    "description": "Join the ultimate jam sessions of Breda with a new session leader each week.",
+    "startDate": "2025-03-30T18:00:00Z",
+    "endDate": "2025-03-30T23:45:00Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/sunday-jam-session-hosted-by-t-b-a-10/",
+    "id": "7eb6a711-e45b-41bf-ba84-e0bbe5a944d2",
+    "name": "phoenix"
+  },
+  {
+    "title": "DE KRAAIEN + DE PLAAG (Album release) + GESPUYS",
+    "description": "Don't miss the legendary masked hiphop sensation from The Hague, live in Breda!",
+    "startDate": "2025-04-04T20:00:00Z",
+    "endDate": "2025-04-05T01:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://poppodiumphoenix.nl/event/de-kraaien-de-plaag-album-release-gespuys/",
+    "id": "25035756-f43b-48a9-8e4e-e2285a0b22c2",
+    "name": "phoenix"
+  },
+  {
+    "title": "The Cruz & The Dukes",
+    "description": "Rock \u2019n Roll",
+    "startDate": "2025-01-31T00:00:00Z",
+    "endDate": "2025-01-31T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/the-cruz-the-dukes/",
+    "id": "4fd38c4e-f6a4-41c6-8d48-67bfae995296",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Jamsessie",
+    "description": "Jam session",
+    "startDate": "2025-02-05T20:30:00Z",
+    "endDate": "2025-02-05T23:59:59Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://cafelievense.nl/jamsessie-4/",
+    "id": "52085c94-ae25-4377-882e-796d5c5acba9",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Jazzkitchen",
+    "description": "Jazz Fusion",
+    "startDate": "2025-02-09T00:00:00Z",
+    "endDate": "2025-02-09T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/jazzkitchen/",
+    "id": "1989dac6-8449-4f38-a372-46f1eca6a135",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Experience Hendrix",
+    "description": "Hendrix Tribute",
+    "startDate": "2025-02-15T00:00:00Z",
+    "endDate": "2025-02-15T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/experience-hendrix/",
+    "id": "bdddba74-73eb-402d-b840-5fa75d736081",
+    "name": "cafelievense"
+  },
+  {
+    "title": "The Containers",
+    "description": "Pop & Rock",
+    "startDate": "2025-02-01T00:00:00Z",
+    "endDate": "2025-02-01T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/the-containers/",
+    "id": "9387fcc3-5db1-4210-a9c9-c143364191e6",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Uncentered",
+    "description": "Alt. rock",
+    "startDate": "2025-02-07T00:00:00Z",
+    "endDate": "2025-02-07T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/uncentered/",
+    "id": "ea9821b2-4948-4b33-b88f-fda9e84fbb72",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Joo Joo Eyeballs",
+    "description": "Funky Bluesrock",
+    "startDate": "2025-02-02T00:00:00Z",
+    "endDate": "2025-02-02T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/joo-joo-eyeballs/",
+    "id": "681c3b46-103c-4608-97a9-a0dca3188fc5",
+    "name": "cafelievense"
+  },
+  {
+    "title": "WETT",
+    "description": "Funk, rock",
+    "startDate": "2025-02-08T00:00:00Z",
+    "endDate": "2025-02-08T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/wett/",
+    "id": "923c2994-b150-454a-b4b5-c34dead88408",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Red Devil",
+    "description": "Hard rock",
+    "startDate": "2025-02-14T00:00:00Z",
+    "endDate": "2025-02-14T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/red-devil/",
+    "id": "b104596a-0d70-4a3d-9c87-12bb4b6d83e2",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Certain Animals",
+    "description": "Melodic Rock",
+    "startDate": "2025-02-16T00:00:00Z",
+    "endDate": "2025-02-16T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://cafelievense.nl/certain-animals/",
+    "id": "93ff91ad-f430-45a2-9864-ede22a4b9d8d",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Jamsessie",
+    "description": "Jam session",
+    "startDate": "2025-02-12T20:30:00Z",
+    "endDate": "2025-02-12T23:59:59Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://cafelievense.nl/jamsessie-2/",
+    "id": "88b4b510-4b2c-4410-9316-be8df8986d89",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Jamsessie",
+    "description": "Jam session",
+    "startDate": "2025-02-19T20:30:00Z",
+    "endDate": "2025-02-19T23:59:59Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://cafelievense.nl/jamsessie/",
+    "id": "a6aa02a5-fcce-4f84-921e-e45f1a78d4b8",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Jamsessie",
+    "description": "Jam session",
+    "startDate": "2025-02-26T20:30:00Z",
+    "endDate": "2025-02-26T23:59:59Z",
+    "eventType": "Jam",
+    "urlToEvent": "https://cafelievense.nl/jamsessie-7/",
+    "id": "06cf82e0-7671-4439-86b3-23c6fa64db5a",
+    "name": "cafelievense"
+  },
+  {
+    "title": "Deel je mening en krijg een gratis hap!",
+    "description": "Participatory event",
+    "startDate": "2025-01-21T17:30:00Z",
+    "endDate": "2025-01-21T21:00:00Z",
+    "eventType": "Community",
+    "urlToEvent": "https://pier15.nl/event/deel-je-mening-en-krijg-een-gratis-hap/",
+    "id": "b1f00191-4fbe-4ea9-a797-755afdd7abaa",
+    "name": "pier15"
+  },
+  {
+    "title": "Core 15",
+    "description": "Music event",
+    "startDate": "2025-01-24T20:00:00Z",
+    "endDate": "2025-01-25T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://pier15.nl/event/core-15/",
+    "id": "fe9d8adb-7454-4794-a3ca-a434e25c2972",
+    "name": "pier15"
+  },
+  {
+    "title": "FREE SKATENIGHT #2 by Nineyards+Bonk",
+    "description": "Skating event",
+    "startDate": "2025-01-28T19:00:00Z",
+    "endDate": "2025-01-28T23:00:00Z",
+    "eventType": "Sports",
+    "urlToEvent": "https://pier15.nl/event/nineyards-x-bonk-present-skatenight-1/",
+    "id": "868ae61e-09c1-4062-9b33-0c8919d23bd8",
+    "name": "pier15"
+  },
+  {
+    "title": "Pier15 in de Sneeuw 6 daagse trip",
+    "description": "Snow trip",
+    "startDate": "2025-01-31T00:00:00Z",
+    "endDate": "2025-02-06T23:59:59Z",
+    "eventType": "Travel",
+    "urlToEvent": "https://pier15.nl/event/pier15-in-de-sneeuw/",
+    "id": "28ad3441-a127-467c-b624-aeaf7aceca12",
+    "name": "pier15"
+  },
+  {
+    "title": "Munity",
+    "description": "Music event",
+    "startDate": "2025-02-07T19:00:00Z",
+    "endDate": "2025-02-08T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://pier15.nl/event/munity/",
+    "id": "e63303e4-17f6-4079-ac0f-300d466f1966",
+    "name": "pier15"
+  },
+  {
+    "title": "Looney Tunes by Yones & Sam #3",
+    "description": "Music gig",
+    "startDate": "2025-02-15T21:00:00Z",
+    "endDate": "2025-02-16T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://pier15.nl/event/looney-tunes-by-yones-sam-3/",
+    "id": "bddc6a84-1f60-494c-a82a-975f10169e3f",
+    "name": "pier15"
+  },
+  {
+    "title": "HENOSIS",
+    "description": "DJ event",
+    "startDate": "2025-03-14T20:00:00Z",
+    "endDate": "2025-03-15T02:00:00Z",
+    "eventType": "Music",
+    "urlToEvent": "https://pier15.nl/event/henosis/",
+    "id": "d9a8c3c3-80b6-43ac-b670-a31c58aefde3",
+    "name": "pier15"
+  },
+  {
+    "title": "Magic Tom & Yuri eten bloed",
+    "description": "Performance art",
+    "startDate": "2025-03-29T20:00:00Z",
+    "endDate": "2025-03-29T23:59:59Z",
+    "eventType": "Theater",
+    "urlToEvent": "https://pier15.nl/event/magic-tom-yuri-eten-bloed/",
+    "id": "e38ce317-7e18-4766-863e-ad5243414845",
+    "name": "pier15"
+  },
+  {
+    "title": "The Night Flight Orchestra",
+    "description": "Hobbyproject van Soilwork-leden met voorliefde voor de betere classic hardrock",
+    "startDate": "2025-01-30T00:00:00Z",
+    "endDate": "2025-01-30T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.013.nl/programma/88828/the-night-flight-orchestra",
+    "id": "c97ee2bb-423b-4cb8-8b1d-443638c438c8",
+    "name": "013"
+  },
+  {
+    "title": "The Brian Jonestown Massacre",
+    "description": "Amerikaanse neo-psychedelische rockband",
+    "startDate": "2025-01-30T00:00:00Z",
+    "endDate": "2025-01-30T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.013.nl/programma/91320/the-brian-jonestown-massacre",
+    "id": "aa9d2fe4-7cb0-41b3-8b87-d414ba08ab8a",
+    "name": "013"
+  },
+  {
+    "title": "Distant + Enterprise Earth",
+    "description": "The Origin of Madness Tour Brute deathcore package",
+    "startDate": "2025-01-31T00:00:00Z",
+    "endDate": "2025-01-31T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.013.nl/programma/92332/distant-enterprise-earth",
+    "id": "ab8821af-7e39-4fcf-a7af-06fa67af7a3f",
+    "name": "013"
+  },
+  {
+    "title": "FEUERENGEL A Tribute To Rammstein",
+    "description": "A Tribute To Rammstein",
+    "startDate": "2025-01-31T00:00:00Z",
+    "endDate": "2025-01-31T23:59:59Z",
+    "eventType": "Tribute",
+    "urlToEvent": "https://www.013.nl/programma/86023/feuerengel",
+    "id": "a51961be-7d86-4d6a-ab6f-67ae8556a11f",
+    "name": "013"
+  },
+  {
+    "title": "BAAPS BOMMEN TOUR",
+    "description": "Hard Techno, Rawstyle en Hardcore",
+    "startDate": "2025-02-01T00:00:00Z",
+    "endDate": "2025-02-01T23:59:59Z",
+    "eventType": "Music",
+    "urlToEvent": "https://www.013.nl/programma/92638/baaps-bommen",
+    "id": "6bbc852a-f26b-4e03-9367-19135bbffcde",
+    "name": "013"
+  },
+  {
+    "title": "STEK Lentemarkt \ud83d\udc1d",
+    "description": "Markt",
+    "startDate": "2025-04-06T13:00:00Z",
+    "endDate": "2025-04-06T17:00:00Z",
+    "eventType": "Market",
+    "urlToEvent": "https://stekbreda.nl/events/stek-lentemarkt-%f0%9f%90%9d",
+    "id": "cf990776-792a-4917-a7b5-2a192ca49fe6",
+    "name": "stek breda"
+  },
+  {
+    "title": "STEK Makersmarkt \ud83e\ude9a",
+    "description": "Markt",
+    "startDate": "2025-06-01T13:00:00Z",
+    "endDate": "2025-06-01T17:00:00Z",
+    "eventType": "Market",
+    "urlToEvent": "https://stekbreda.nl/events/stek-makersmarkt-%f0%9f%aa%9a",
+    "id": "06bce1c9-9d63-42f5-bead-1289dd27a40c",
+    "name": "stek breda"
+  },
+  {
+    "title": "STEK Zomermarkt \u2600\ufe0f",
+    "description": "Markt",
+    "startDate": "2025-08-17T14:00:00Z",
+    "endDate": "2025-08-17T19:00:00Z",
+    "eventType": "Market",
+    "urlToEvent": "https://stekbreda.nl/events/stek-zomermarkt-%e2%98%80%ef%b8%8f",
+    "id": "c80d2553-43f7-4f4b-a739-176fe4deed55",
+    "name": "stek breda"
+  },
+  {
+    "title": "STEK Herfstmarkt \ud83c\udf42",
+    "description": "Markt",
+    "startDate": "2025-10-12T13:00:00Z",
+    "endDate": "2025-10-12T17:00:00Z",
+    "eventType": "Market",
+    "urlToEvent": "https://stekbreda.nl/events/stek-herfstmarkt-%f0%9f%8d%82",
+    "id": "bda45d2c-2ca5-4329-8000-4070342439cc",
+    "name": "stek breda"
+  },
+  {
+    "title": "KerstSTEKtakel 2025 \ud83c\udf84\ud83c\udf85\ud83c\udffc",
+    "description": "Markt",
+    "startDate": "2025-12-06T14:00:00Z",
+    "endDate": "2025-12-07T19:00:00Z",
+    "eventType": "Market",
+    "urlToEvent": "https://stekbreda.nl/events/kerststektakel-2025-%f0%9f%8e%84%f0%9f%8e%85%f0%9f%8f%bc",
+    "id": "f0178efe-3dfb-4541-ba2f-dec656ed5145",
+    "name": "stek breda"
+  }
+]
