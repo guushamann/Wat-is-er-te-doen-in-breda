@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
+    <!-- PWA meta tags -->
+    <meta name="theme-color" content="#f5f5f5" />
+    <meta name="description" content="Astro Basics PWA" />
+    <link rel="apple-touch-icon" href="/pwa-192x192.png" />
+    <link rel="manifest" href="/manifest.json" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -12,6 +17,7 @@
       rel="stylesheet"
     />
     <title>Astro Basics</title>
+    <script is:inline src="/registerSW.js"></script>
   </head>
   <body>
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 w-full min-h-screen">
