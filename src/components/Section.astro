@@ -1,6 +1,5 @@
 ---
 import { getCollection } from "astro:content";
-import Card from "./Card.astro";
 
 const allResults = await getCollection("results");
 const today = new Date();
@@ -28,6 +27,8 @@ const results = allResults
       new Date(b.data.startDate).getTime()
     );
   });
+
+console.log(results);
 ---
 
 <div>
