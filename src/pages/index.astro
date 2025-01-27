@@ -3,6 +3,7 @@ import Section from "../components/Section.astro";
 import Layout from "../layouts/Layout.astro";
 import Headers from "../components/headers.astro";
 export const prerender = false;
+Astro.response.headers.set("Cache-Control", "public, max-age=3600");
 ---
 
 <Layout>
