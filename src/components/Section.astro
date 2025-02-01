@@ -28,42 +28,57 @@ const results = allResults
     );
   });
 
+// Group results by date
+const groupedResults = results.reduce(
+  (groups, result) => {
+    const date = new Date(result.data.startDate);
+    const dateString = date.toLocaleDateString("nl-NL", {
+      weekday: "long",
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+    });
+
+    if (!groups[dateString]) {
+      groups[dateString] = [];
+    }
+    groups[dateString].push(result);
+    return groups;
+  },
+  {} as Record<string, typeof results>
+);
+
 console.log(results);
 ---
 
 <div>
   {
-    results.map((result) => (
-      <a href={result.data.urlToEvent} target="_blank">
-        <div class="mt-2 mb-8 uppercase">
-          <h2 class="text-2xl lg:text-4xl font-funnel underline">
-            {result.data.title}
-          </h2>
+    Object.entries(groupedResults).map(([dateString, dateResults]) => (
+      <>
+        <h1 class="text-2xl lg:text-3xl font-extrabold font-funnel mt-12 ">
+          {dateString}
+        </h1>
+        {dateResults.map((result) => (
+          <a href={result.data.urlToEvent} target="_blank">
+            <div class="mt-2 mb-6 ">
+              <h3 class="text-xl lg:text-2xl font-funnel underline uppercase">
+                {result.data.title}
+              </h3>
 
-          <div class="flex flex-row gap-2  justify-between">
-            <div class="flex flex-row gap-2 justify-between mb-2">
-              <div class="text-lg lg:text-2xl font-funnel">
-                {new Date(result.data.startDate).toLocaleDateString("nl-NL", {
-                  weekday: "long",
-                })}
+              <div class="flex flex-row gap-2 justify-between">
+                <div class="flex flex-row gap-2 justify-between">
+                  <div class="text-lg lg:text-xl font-extrabold font-funnel uppercase">
+                    {result.data.name}
+                  </div>
+                </div>
               </div>
-              <div class="text-lg lg:text-2xl font-funnel">
-                {new Date(result.data.startDate).toLocaleDateString("nl-NL", {
-                  day: "2-digit",
-                  month: "2-digit",
-                  year: "numeric",
-                })}
+              <div class="lg:text-xl font-funnel">
+                {result.data.description}
               </div>
             </div>
-            <div class="flex flex-row gap-2 justify-between">
-              <div class="text-lg lg:text-2xl font-funnel ">
-                {result.data.name}
-              </div>
-            </div>
-          </div>
-          <div class="lg:text-2xl font-funnel">{result.data.description}</div>
-        </div>
-      </a>
+          </a>
+        ))}
+      </>
     ))
   }
 </div>
