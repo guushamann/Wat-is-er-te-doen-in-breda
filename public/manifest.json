@@ -1,7 +1,7 @@
 {
-    "name": "Astro Basics",
-    "short_name": "Astro PWA",
-    "description": "Astro Basics Progressive Web App",
+    "name": "Wat is er te doen in Breda",
+    "short_name": "Bretjeda App",
+    "description": "Wat is er te doen in Breda",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#f5f5f5",
